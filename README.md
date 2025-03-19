@@ -74,15 +74,3 @@ This project is **open-source** and available under the **MIT License**.
 📢 **Star this repository if you found it useful!** ⭐  
 
 ```
-
-### 🔥 Next Steps:
-- Replace `"https://github.com/your-username/Math-Meme-Repair.git"` with your actual GitHub repo link.
-- Add a **live demo link** if available.
-- Upload a sample image of the project to GitHub (or Imgur) and replace `"https://user-images.githubusercontent.com/your-image-url.png"`.
-
-Now, commit and push this README file to GitHub:
-```sh
-git add README.md
-git commit -m "Added detailed README"
-git push
-```
